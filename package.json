@@ -1,0 +1,25 @@
+{
+  "name": "react-dropdown",
+  "version": "0.9.0",
+  "description": "Dropdown widget for React",
+  "main": "dist/dropdown.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "React",
+    "Dropdown"
+  ],
+  "author": "vkmarmot@yandex.ru",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.4.14",
+    "react": "^16.5.2"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
